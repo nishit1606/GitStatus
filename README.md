@@ -9,7 +9,7 @@ GitTrends is an app made using Flutter which displays all the trending repositor
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/GitTrends.git
+$ git clone https://github.com/nishit1606/GitStatus.git
 ```
 
 2. Open the project and install dependencies (using terminal):
